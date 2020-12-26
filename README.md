@@ -15,4 +15,4 @@ Latest version of python installed.
 
 open the terminal
 
-Type game.py to run the file
+Type python game.py to run the file
